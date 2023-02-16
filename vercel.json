@@ -1,0 +1,5 @@
+{
+  "routes": [
+    {"src": "/(.*)","dest": "https://git.mrl646.workers.dev/$1"}
+  ]
+}
