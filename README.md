@@ -1,2 +1,2 @@
 # gh-proxy-index
-gh-proxy index page (python & replit version)
+gh-proxy index page
